@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class numberEvaluate {
+public class NumberEvaluate {
 
 	static String input;
 	static int number;
